@@ -1,11 +1,7 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Rachel Wisniewski # your name (or website title) here
+
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  A student at Columbia College Chicago who is learning to code  
   
 theme: jekyll-theme-midnight
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
